@@ -6,23 +6,23 @@ import { url } from "@/constant";
 import { AdsWrapper } from "@/components/wrappers/ad-wrapper";
 
 export const Ad1 = () => {
-  return <AdsWrapper id="7388748503" />;
+  return <AdsWrapper id="1194095967" />;
 };
 
 export const Ad2 = () => {
-  return <AdsWrapper id="8262846471" />;
+  return <AdsWrapper id="3396188676" />;
 };
 
 export const Ad3 = () => {
-  return <AdsWrapper id="3073997349" />;
+  return <AdsWrapper id="2667223060" />;
 };
 
 export const Ad4 = () => {
-  return <AdsWrapper id="4762585168" />;
+  return <AdsWrapper id="2326649587" />;
 };
 
 export const Ad5 = () => {
-  return <AdsWrapper id="4096370750" />;
+  return <AdsWrapper id="7169574856" />;
 };
 
 // export const OutBrain1 = () => {
